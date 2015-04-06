@@ -3,11 +3,7 @@ Server Prepkit
 
 A method for me to quickly set up my servers.
 
-
-Edit the contents of the skel folder (or delete it if you don't want a simple dotfiles setup)
-
-Next, edit `install.sh`. Ensure you go over every configuration option, and run it!
-
+Edit `install.sh`. Ensure you go over every configuration option, and run it!
 
 This script is pretty personalised; and it might not be 100% what you need. But for me it does quite a bit of work for me.
 
